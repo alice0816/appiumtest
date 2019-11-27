@@ -142,6 +142,7 @@ driver = get_driver()
 # time.sleep(3)
 login_by_uiautomator()
 login_by_xpath()
+login_by_xpath()
 
 # driver.d(resourceId='com.google.android.googlequicksearchbox:id/icon').click()
 # if not driver.find_element_by_id("com.android.camera2:id/shutter_button").exists(timeout=120):
