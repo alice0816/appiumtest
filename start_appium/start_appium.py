@@ -140,7 +140,7 @@ driver = get_driver()
 #     swipe_direction("left")
 # go_login_by_class()
 # time.sleep(3)
-login_by_xpath()
+login_by_uiautomator()
 
 
 # driver.d(resourceId='com.google.android.googlequicksearchbox:id/icon').click()
